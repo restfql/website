@@ -8,12 +8,12 @@ Welcome to the RestFQL user guide! This guide shows you how to get started on th
 
 ## What is RestFQL?
 
-TBD
+RestFQL is a specification to extend the current capabilities of rest to filter data on retrival to solve diferent contract requirements.
 
 ## Is RestFQL for me?
 
-TBD
+if you are thinking to implement a BFF or use graphQL give it a try to see if it fits your use case
 
 ## Ready to get started?
 
-Find out how to define and use your observers in [Quick Start](/docs/quick-start). Or visit the [page](https://www.restfql.com/) and [its repo](https://github.com/restfql) and start exploring.
+Find out how the [Specificarion works](/docs/quick-start), and use one of our middlewares. Or visit the [page](https://www.restfql.com/) and [its repo](https://github.com/restfql) and start exploring.

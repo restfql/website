@@ -15,4 +15,4 @@ if you are thinking to implement a BFF or use graphQL give it a try to see if it
 
 ## Ready to get started?
 
-Find out how the [Specificarion works](/docs/quick-start), and use one of our middlewares. Or visit the [page](https://www.restfql.com/) and [its repo](https://github.com/restfql) and start exploring.
+Find out how the [Specificarion works](/docs/specification), and use one of our middlewares. Or visit the [page](https://www.restfql.com/) and [its repo](https://github.com/restfql) and start exploring.

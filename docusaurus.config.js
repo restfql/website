@@ -61,6 +61,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: 'rest,open source,query language'}],
       navbar: {
         title: 'RestFQL',
         logo: {

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://RestFQL.com/blog</id>
+    <id>https://www.RestFQL.com/blog</id>
     <title>RestFQL Blog</title>
     <updated>2023-03-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://RestFQL.com/blog"/>
+    <link rel="alternate" href="https://www.RestFQL.com/blog"/>
     <subtitle>RestFQL Blog</subtitle>
-    <icon>https://RestFQL.com/img/favicon.ico</icon>
+    <icon>https://www.RestFQL.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Alpha Release for Expressjs]]></title>
-        <id>https://RestFQL.com/blog/first-alpha-release</id>
-        <link href="https://RestFQL.com/blog/first-alpha-release"/>
+        <id>https://www.RestFQL.com/blog/first-alpha-release</id>
+        <link href="https://www.RestFQL.com/blog/first-alpha-release"/>
         <updated>2023-03-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello welcome everyone to the first blog post and also our first Alpha release.]]></summary>
         <content type="html"><![CDATA[<p>Hello welcome everyone to the first blog post and also our first Alpha release. </p><p>The release can be found in this <a href="https://www.npmjs.com/package/express-restfql" target="_blank" rel="noopener noreferrer">link</a></p><p>We hope you enjoy and we look forward to your feedback and help in our <a href="https://github.com/restfql/express-restfql" target="_blank" rel="noopener noreferrer">repository</a></p>]]></content>

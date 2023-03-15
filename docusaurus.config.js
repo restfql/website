@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'RestFQL',
   tagline: 'Rest compatible Filtering query language for any server',
-  url: 'https://RestFQL.com',
+  url: 'https://www.RestFQL.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img src="img/preview.png"/>
+        <video controls src='video/intro.webm' width="700" height="400" />
       </div>
     </header>
   );

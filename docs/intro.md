@@ -9,6 +9,8 @@ Welcome to the RestFQL user guide! This guide shows you how to get started on th
 
 RestFQL is a specification to extend the current capabilities of rest to filter data on retrieval to solve different contract requirements.
 
+<video controls src='/video/intro.webm' width="700" height="400" />
+
 ## Is RestFQL for me?
 
 if you are thinking to implement a BFF or use graphQL give it a try to see if it fits your use case.
